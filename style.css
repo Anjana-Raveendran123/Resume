@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#title{
+    color: red;
+    font-size: 30px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 0;
+}
+#title2{
+    color: brown;
+    font-size: 30px;
+}
+
+
+#skill h3{
+    color: blueviolet;
+    font-size: 30px;
+
+}
+#education h4 {
+    color: blueviolet;
+    font-size: 30px;
+}
+img{
+    width: 100px;
+}
